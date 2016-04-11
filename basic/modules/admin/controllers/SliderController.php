@@ -132,7 +132,7 @@ if(isset($_FILES["myfile"]))
 
       //$mode = \Imagine\Image\ManipulatorInterface::THUMBNAIL_OUTBOUND; // or THUMBNAIL_INSET
       $mode = \Imagine\Image\ManipulatorInterface::THUMBNAIL_INSET; // or THUMBNAIL_INSET
-      $img = $_SERVER['DOCUMENT_ROOT']."uploads_slider/".$fileName;
+      $img = $_SERVER['DOCUMENT_ROOT']."/uploads_slider/".$fileName;
       $size = Image::getImagine()->open($img)->getSize()->widen(1000);
 
       Image::thumbnail($img, 300, 100, $mode)->save('uploads_slider/300x100/'. $newFile, ['quality' => 100]);

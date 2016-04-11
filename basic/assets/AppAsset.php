@@ -18,36 +18,13 @@ class AppAsset extends AssetBundle
     public $basePath = '@webroot';
     public $baseUrl = '@web';
     public $css = [
+        'css/main.css',
         'css/site.css',
-        'css/colorbox.css',
-        'css/flexslider-min.css',
-        'css/font-awesome.min.css',
-        'css/jquery.bxslider.css',
-        'css/language-selector.css',
-        'css/main.min.css',
-        'css/page-list.css',
-        'css/video-js.css',
-        'fancybox/source/jquery.fancybox.css'
+        'https://fonts.googleapis.com/css?family=Open+Sans:400,600&subset=latin,cyrillic',
+        'https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic',
     ];
     public $js = [
-        //'css/jquery-2.1.4.min.js',
-        'js/gfplaceholderaddon.js',
-        //'js/jquery-1.11.0.min.js',
-        //'js/jquery.colorbox-min.js',
-        //'js/jquery.cycle2.min.js',
-        //'js/jquery.flexslider-min.js',
-        //'js/jquery.min.js',
-        'fancybox/source/jquery.fancybox.js',
-        //'js/jquery.placeholder-1.0.1.js',
-        //'js/jwplayer.js',
-        //'js/modernizr-2.7.0.min.js',
-        //'js/respond.min.js',
-        //'js/responsiveslides.min.js',
-        //'js/royal.min.js',
-        //'js/scripts.min.js',
-        //'js/sitepress.js',
-        //'js/video.js',
-        'js/site.js',
+        'js/main.js',
 
     ];
     public $depends = [

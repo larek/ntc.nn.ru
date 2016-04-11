@@ -39,8 +39,13 @@ $this->registerCssFile('/fotorama/fotorama.css');
 
 </div>
 
+
+
 <div class='frontPageDivWrap'>
   <div class='container'>
+
+
+
     <div class='col-md-4 frontPageDiv'>
         <?= Html::a("О КОМПАНИИ",['site/view','guid'=>'about'],['class' => 'btn-frontPage'])?>
         <span class='separate'></span>
@@ -70,6 +75,84 @@ $this->registerCssFile('/fotorama/fotorama.css');
 <br><br>
 <div class='container'>
 
+
+<!-- block -->
+<div class="row">
+                    <div class="col-sm-5 col-md-4 col-lg-3 col-slg-3">
+                        <div class="cheap-tours__intro">
+                            <div class="cheap-tours__intro-title">Экскурсии по Нижнему Новгороду от <span class="monolit">300 <span class="rouble">Р</span></span></div>
+                            <div class="cheap-tours__intro-text">
+                                <div class="cheap-tours__intro-text-normal">Приглашаем вас принять участие во всевозможных экскурсиях по Нижнему Новгороду по цене от 300 рублей.</div>
+                                <div class="hidden-xs hidden-usm cheap-tours__intro-text-small">Профессиональные экскурсоводы, удобные маршруты и сказочно красивые места  — все это для вас!</div>
+
+                                <div class="visible-xs-block visible-usm-block accordion">
+                                    <div class="cheap-tours__intro-link link link_dashed accordion__button" data-tab="#cheap-tours-intro-tab" data-hide-on-click="1">Подробнее</div>
+                                    <div class="accordion__tab" id="cheap-tours-intro-tab">
+                                        <div class="cheap-tours__intro-text-small">Профессиональные экскурсоводы, удобные маршруты и сказочно красивые места российской столицы — все это для вас!</div>
+                                        <div class="cheap-tours__intro-text-small">Мы сделаем всё, чтобы ваше пребывание в этом величественном городе стало интересным и познавательным.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-7 col-md-8 col-lg-9 col-slg-9">
+                        <div class="row">
+                            <div class="cheap-tours__slider owl-carousel" style="display: block;">
+                                <div class="col-sm-12 col-md-12 col-lg-8 col-slg-8">
+                                    <div class="cheap-tours__item" style="background-image: url('http://placehold.it/560x260')">
+                                                                                <a href="/ekskursii/obzornye/obzornaya-avtobusnaya-moskva/" class="cheap-tours__link"></a>
+
+                                        <div class="cheap-tours__content">
+                                            <a href="/ekskursii/obzornye/obzornaya-avtobusnaya-moskva/" class="cheap-tours__title">Обзорные</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-6 col-md-6 col-lg-4 col-slg-4">
+                                    <div class="cheap-tours__item" style="background-image: url('http://placehold.it/300x300')">
+                                                                                <a href="/ekskursii/avtobusnye/" class="cheap-tours__link"></a>
+
+                                        <div class="cheap-tours__content">
+                                            <a href="/ekskursii/avtobusnye/" class="cheap-tours__title">Автобусные</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-6 col-md-6 col-lg-4 col-slg-4">
+                                    <div class="cheap-tours__item" style="background-image: url('http://placehold.it/300x300')">
+                                                                                <a href="/ekskursii/peshehodnye/" class="cheap-tours__link"></a>
+
+                                        <div class="cheap-tours__content">
+                                            <a href="/ekskursii/peshehodnye/" class="cheap-tours__title">Пешеходные</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-6 col-md-6 col-lg-4 col-slg-4">
+                                    <div class="cheap-tours__item" style="background-image: url('http://placehold.it/300x300')">
+                                                                                <a href="/ekskursii/dlya-shkolnikov/" class="cheap-tours__link"></a>
+
+                                        <div class="cheap-tours__content">
+                                            <a href="/ekskursii/dlya-shkolnikov/" class="cheap-tours__title">Для школьников</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-6 col-md-6 col-lg-4 col-slg-4">
+                                    <div class="cheap-tours__item" style="background-image: url('http://placehold.it/300x300')">
+                                                                                <a href="/ekskursii/individualnye/" class="cheap-tours__link"></a>
+
+                                        <div class="cheap-tours__content">
+                                            <a href="/ekskursii/individualnye/" class="cheap-tours__title">Индивидуальные</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+<!-- end block -->
 
   <?= Callback::widget();?>
 
