@@ -4,7 +4,7 @@ use app\components\Callback;
 use yii\helpers\Html;
 /* @var $this yii\web\View */
 
-$this->title = 'ФормулаКД';
+$this->title = 'Нижегородский туристический центр';
 
 $this->registerJsFile('/fotorama/fotorama.js',['depends' => [\yii\web\JqueryAsset::className()]]);
 $this->registerCssFile('/fotorama/fotorama.css');
