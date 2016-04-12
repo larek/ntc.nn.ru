@@ -4243,7 +4243,6 @@ a:hover {
 
 .header__logo {
     margin-top: -31px;
-    margin-bottom: 23px;
 }
 
 .footer {
@@ -11194,7 +11193,7 @@ a:hover {
     }
     .header__inner {
 background: url(../images/ntc-banner.jpg) bottom left repeat-x #FFFFFF;
-    background-position: 147px 126px;
+    background-position: 147px 100px;
     background-size: 500px;
     }
     .ajax-form {
