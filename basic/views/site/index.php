@@ -50,7 +50,7 @@ $this->registerCssFile('/fotorama/fotorama.css');
         <?= Html::a("О КОМПАНИИ",['site/view','guid'=>'about'],['class' => 'btn-frontPage'])?>
         <span class='separate'></span>
         <div class='frontPageText'>
-          «Формула КД» - это компания, которая образовалась в результате коллаборации опытных инженеров-конструкторов, расчетчиков и инженеров-технологов с целью предоставления профессиональных услуг по разработке, сопровождению или реализации инженерно-технических проектов.
+          «Нижегородский Туристический Центр» - это компания, которая образовалась в результате коллаборации опытных инженеров-конструкторов, расчетчиков и инженеров-технологов с целью предоставления профессиональных услуг по разработке, сопровождению или реализации инженерно-технических проектов.
         </div>
         <a href='/about' class='frontPageDivLink'>Подробнее</a>
     </div>
@@ -104,7 +104,7 @@ $this->registerCssFile('/fotorama/fotorama.css');
                                                                                 <a href="/ekskursii/obzornye/obzornaya-avtobusnaya-moskva/" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/obzornye/obzornaya-avtobusnaya-moskva/" class="cheap-tours__title">Обзорные</a>
+                                            <a href="/ekskursii/obzornye/obzornaya-avtobusnaya-moskva/" class="cheap-tours__title">Ближайшие экскурсии</a>
                                         </div>
                                     </div>
                                 </div>
@@ -114,7 +114,7 @@ $this->registerCssFile('/fotorama/fotorama.css');
                                                                                 <a href="/ekskursii/avtobusnye/" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/avtobusnye/" class="cheap-tours__title">Автобусные</a>
+                                            <a href="/ekskursii/avtobusnye/" class="cheap-tours__title">Полезная информация</a>
                                         </div>
                                     </div>
                                 </div>
@@ -124,7 +124,7 @@ $this->registerCssFile('/fotorama/fotorama.css');
                                                                                 <a href="/ekskursii/peshehodnye/" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/peshehodnye/" class="cheap-tours__title">Пешеходные</a>
+                                            <a href="/ekskursii/peshehodnye/" class="cheap-tours__title">Отзывы</a>
                                         </div>
                                     </div>
                                 </div>
@@ -134,7 +134,7 @@ $this->registerCssFile('/fotorama/fotorama.css');
                                                                                 <a href="/ekskursii/dlya-shkolnikov/" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/dlya-shkolnikov/" class="cheap-tours__title">Для школьников</a>
+                                            <a href="/ekskursii/dlya-shkolnikov/" class="cheap-tours__title">Календарь экскурсий</a>
                                         </div>
                                     </div>
                                 </div>
@@ -144,7 +144,7 @@ $this->registerCssFile('/fotorama/fotorama.css');
                                                                                 <a href="/ekskursii/individualnye/" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/individualnye/" class="cheap-tours__title">Индивидуальные</a>
+                                            <a href="/ekskursii/individualnye/" class="cheap-tours__title">Акции</a>
                                         </div>
                                     </div>
                                 </div>
