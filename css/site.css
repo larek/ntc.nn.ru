@@ -465,3 +465,30 @@ h2.panel-title {
 article.panel.panel-primary {
     border-color: #E2C879;
 }
+
+/*footer*/
+.footer_wrap h3 {
+    border-bottom: 1px solid #BAC1C8;
+    color: #54697E;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    padding: 0px 0 10px;
+    text-transform: uppercase;
+}
+.footer_wrap ul {
+    font-size: 13px;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 15px;
+    color: #7F8C8D;
+}
+.footer_wrap ul li a {
+    padding: 0 0 5px 0;
+    display: block;
+}
+.footer_wrap a {
+    color: #78828D
+}
+/*and footer*/

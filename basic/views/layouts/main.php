@@ -174,9 +174,53 @@ AppAsset::register($this);
 
     <div class="footer_border"></div>
     <div class="footer_wrap">
-        <div class="container">
-            <div class="col-md-4">sdf</div>  
-        </div> 
+
+<div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="/images/ntc-logo-white.png" style='width:142px' alt="">
+                </div>
+                <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                    <h3> Заголовок</h3>
+                    <ul>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                    <h3> Заголовок </h3>
+                    <ul>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                    <h3> Заголовок </h3>
+                    <ul>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
+                    <h3> Заголовок </h3>
+                    <ul>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                        <li> <a href="#"> Ссылка </a> </li>
+                    </ul>
+                </div>
+                
+            </div>
+            <!--/.row--> 
+        </div>
+        <!--/.container--> 
     </div>
 <?php $this->endBody() ?>
 </body>
