@@ -50,7 +50,8 @@ $this->registerCssFile('/fotorama/fotorama.css');
         <?= Html::a("О КОМПАНИИ",['site/view','guid'=>'about'],['class' => 'btn-frontPage'])?>
         <span class='separate'></span>
         <div class='frontPageText'>
-          «Нижегородский Туристический Центр» - это компания, которая образовалась в результате коллаборации опытных инженеров-конструкторов, расчетчиков и инженеров-технологов с целью предоставления профессиональных услуг по разработке, сопровождению или реализации инженерно-технических проектов.
+          «Нижегородский Туристический Центр» - это компания, текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
         </div>
         <a href='/about' class='frontPageDivLink'>Подробнее</a>
     </div>
@@ -58,7 +59,9 @@ $this->registerCssFile('/fotorama/fotorama.css');
         <?= Html::a("ПАРТНЕРЫ",['site/view','guid'=>'partnery'],['class' => 'btn-frontPage'])?>
         <span class='separate'></span>
         <div class='frontPageText'>
-          Мы имеем партнерские соглашения с ведущими государственными университетами, лабораториями и промышленными производствами, что позволяет комплексно использовать последние научно-технические разработки, современное оборудование, профессионализм и интеллектуальные ресурсы.
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст            текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+
         </div>
         <a href='partnery' class='frontPageDivLink'>Подробнее</a>
     </div>
@@ -66,8 +69,8 @@ $this->registerCssFile('/fotorama/fotorama.css');
         <?= Html::a("СОТРУДНИЧЕСТВО",['site/view','guid'=>'sotrudnicestvo'],['class' => 'btn-frontPage'])?>
         <span class='separate'></span>
         <div class='frontPageText'>
-          Мы всегда открыты ко взаимовыгодному сотрудничеству с промышленными производствами с целью внедрения и предложения на рынок продукта с под­робной сопроводительной документацией и описанием технологических про­цессов, необходимых для производства серийных образцов. 
-        </div>
+текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст            текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст         </div>
         <a href='sotrudnicestvo' class='frontPageDivLink'>Подробнее</a>
     </div>
   </div>
@@ -101,50 +104,50 @@ $this->registerCssFile('/fotorama/fotorama.css');
                             <div class="cheap-tours__slider owl-carousel" style="display: block;">
                                 <div class="col-sm-12 col-md-12 col-lg-8 col-slg-8">
                                     <div class="cheap-tours__item" style="background-image: url('http://placehold.it/560x260')">
-                                                                                <a href="/ekskursii/obzornye/obzornaya-avtobusnaya-moskva/" class="cheap-tours__link"></a>
+                                                                                <a href="#" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/obzornye/obzornaya-avtobusnaya-moskva/" class="cheap-tours__title">Ближайшие экскурсии</a>
+                                            <a href="#" class="cheap-tours__title">Ближайшие экскурсии</a>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6 col-md-6 col-lg-4 col-slg-4">
                                     <div class="cheap-tours__item" style="background-image: url('http://placehold.it/300x300')">
-                                                                                <a href="/ekskursii/avtobusnye/" class="cheap-tours__link"></a>
+                                                                                <a href="#" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/avtobusnye/" class="cheap-tours__title">Полезная информация</a>
+                                            <a href="#" class="cheap-tours__title">Полезная информация</a>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6 col-md-6 col-lg-4 col-slg-4">
                                     <div class="cheap-tours__item" style="background-image: url('http://placehold.it/300x300')">
-                                                                                <a href="/ekskursii/peshehodnye/" class="cheap-tours__link"></a>
+                                                                                <a href="#" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/peshehodnye/" class="cheap-tours__title">Отзывы</a>
+                                            <a href="#" class="cheap-tours__title">Отзывы</a>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6 col-md-6 col-lg-4 col-slg-4">
                                     <div class="cheap-tours__item" style="background-image: url('http://placehold.it/300x300')">
-                                                                                <a href="/ekskursii/dlya-shkolnikov/" class="cheap-tours__link"></a>
+                                                                                <a href="#" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/dlya-shkolnikov/" class="cheap-tours__title">Календарь экскурсий</a>
+                                            <a href="#" class="cheap-tours__title">Календарь экскурсий</a>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6 col-md-6 col-lg-4 col-slg-4">
                                     <div class="cheap-tours__item" style="background-image: url('http://placehold.it/300x300')">
-                                                                                <a href="/ekskursii/individualnye/" class="cheap-tours__link"></a>
+                                                                                <a href="#" class="cheap-tours__link"></a>
 
                                         <div class="cheap-tours__content">
-                                            <a href="/ekskursii/individualnye/" class="cheap-tours__title">Акции</a>
+                                            <a href="#" class="cheap-tours__title">Акции</a>
                                         </div>
                                     </div>
                                 </div>
@@ -165,19 +168,22 @@ $this->registerCssFile('/fotorama/fotorama.css');
         <div class="col-sm-4 col-md-4 text-center">
           <img class="img-circle" src="http://placehold.it/300x300" alt="Generic placeholder image" width="140" height="140">
           <h2>ВЫСОКОЕ КАЧЕСТВО</h2>
-          <p>Команда профессиональных инженеров «Формула КД» гарантирует высокое качество оказанных инженерно-консультационных услуг в строгом соответствии с необходимыми нормами и стандартами.</p>
+          <p>текст текст текст текст текст текст текст текст текст текст  текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст </p>
 
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4 col-md-4 text-center">
           <img class="img-circle" src="http://placehold.it/300x300" alt="Generic placeholder image" width="140" height="140">
           <h2>ОБШИРНЫЙ ОПЫТ</h2>
-          <p>Впечатляющий опыт работы наших инженеров в разных сферах и областях позволяет с легкостью решить даже самые сложные инженерно-технические задачи наиболее рациональным и оптимальным для Вас способом.</p>
+         <p>текст текст текст текст текст текст текст текст текст текст  текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст </p>
 
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4 col-md-4 text-center">
           <img class="img-circle" src="http://placehold.it/300x300" alt="Generic placeholder image" width="140" height="140">
           <h2>ЭКОНОМИЯ ДЕНЕГ</h2>
-          <p>При работе с нами Вам не нужно оплачивать наши болезни, отпуска или отчисления в налоговые органы. Не нужно обеспечивать наши рабочие места. Вы оплачиваете только ту работу, которая принесет Вам конкретную пользу и выгоду</p>
+          <p>текст текст текст текст текст текст текст текст текст текст  текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст </p>
 
         </div><!-- /.col-lg-4 -->
   </div>
@@ -186,19 +192,22 @@ $this->registerCssFile('/fotorama/fotorama.css');
           <div class="col-sm-4 col-md-4 text-center">
             <img class="img-circle" src="http://placehold.it/300x300" alt="Generic placeholder image" width="140" height="140">
             <h2>ЭКОНОМИЯ ВРЕМЕНИ</h2>
-            <p>Мы искренне считаем, что каждый человек должен заниматься тем, что у него получается лучше всего. Получается хорошо управлять предприятием? Прекрасно! Инженерное решение технических тонкостей вашего производства - доверьте нам!</p>
+            <p>текст текст текст текст текст текст текст текст текст текст  текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст </p>
 
           </div><!-- /.col-lg-4 -->
           <div class="col-sm-4 col-md-4 text-center">
             <img class="img-circle" src="http://placehold.it/300x300" alt="Generic placeholder image" width="140" height="140">
             <h2>КОНФИДЕНЦИАЛЬНОСТЬ</h2>
-            <p>Мы гарантируем абсолютную конфиденциальность информации, полученной от клиента в процессе работы. Все права на разработанные нами изделия и проекты полностью принадлежат Заказчику.</p>
+            <p>текст текст текст текст текст текст текст текст текст текст  текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст </p>
 
           </div><!-- /.col-lg-4 -->
           <div class="col-sm-4 col-md-4 text-center">
             <img class="img-circle" src="http://placehold.it/300x300" alt="Generic placeholder image" width="140" height="140">
             <h2>СЖАТЫЕ СРОКИ</h2>
-            <p>Наш опыт и высокая квалификация позволяют нам быстро и качественно выполнять поставленные задачи, что позволяет Вам существенно сократить сроки производства продукции или реализации проекта.</p>
+           <p>текст текст текст текст текст текст текст текст текст текст  текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст 
+          текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст </p>
 
           </div><!-- /.col-lg-4 -->
     </div>
