@@ -85,8 +85,7 @@ AppAsset::register($this);
                     <div class="main-menu-2">
                         <ul class="hidden-xs hidden-usm main-menu-2__menu-level-1">
                             <li class="first level-1 active main-menu-2__menu-level-1__item">
-                                <a href="/" class="main-menu-2__menu-level-1__link">Сборные экскурсии</a>
-
+                                <?= Html::a('Сборные экскурсии',['site/view', 'guid' => 'sbornye-ekskursii'], ['class' => 'main-menu-2__menu-level-1__link']);?>
                                 <!-- <ul class="hidden-xs hidden-usm main-menu-2__menu-level-2">
                                     <li class="first level-2 main-menu-2__menu-level-2__item">
                                         <a href="/ekskursii/obzornye/obzornaya-avtobusnaya-moskva/" class="main-menu-2__menu-level-2__link">Обзорные</a>
@@ -111,15 +110,14 @@ AppAsset::register($this);
                                 </ul> -->
                             </li>
                             <li class="level-1 main-menu-2__menu-level-1__item">
-                                <a href="/dostoprimechatelnosti/ulicy-ploshhadi/" class="main-menu-2__menu-level-1__link">Индивидуальные экскурсии</a>
+                                 <?= Html::a('Индивидуальные экскурсии',['site/view', 'guid' => 'individualnye-ekskursii'], ['class' => 'main-menu-2__menu-level-1__link']);?>
 
                             </li>
                             <li class="level-1 main-menu-2__menu-level-1__item">
-                                <a href="/ekskursii/individualnye/" class="main-menu-2__menu-level-1__link">Новости</a>
-
+                                <?= Html::a('Новости', ['news/index'], ['class' => 'main-menu-2__menu-level-1__link'])?>
                             </li>
                             <li class="level-1 main-menu-2__menu-level-1__item">
-                                <a href="/actions/" class="main-menu-2__menu-level-1__link">Контакты</a>
+                            <?= Html::a('Контакты', ['site/view', 'guid' => 'contacts'], ['class' => 'main-menu-2__menu-level-1__link'])?>
 
                             </li>
                             
