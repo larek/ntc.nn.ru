@@ -10430,7 +10430,9 @@ a:hover {
         background: 0 0
     }
     .header__inner {
-        background: url(../images/banner.jpg) bottom left repeat-x #ececec
+        background: url(../images/banner.jpg) bottom left repeat-x #FFFFFF;
+    background-position: 147px 126px;
+    background-size: 500px;
     }
     .footer__list_2-col {
         width: auto
