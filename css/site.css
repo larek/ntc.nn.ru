@@ -236,7 +236,7 @@ span.separate {
 
 .frontPageDivWrap{
   width: 100%;
-    background: #3272B9;
+    background: #F0B244;
     padding: 10px 0px;
 }
 .frontPageTitle h2{
@@ -408,7 +408,7 @@ span.separate {
 
 .callback-wrapper {
     width: 100%;
-    border: 3px solid #FDB51C;
+    border: 3px solid #F0B244;
     padding: 18px;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -436,7 +436,7 @@ span.separate {
 
 
 .footer_border {
-    background: url(../images/banner.jpg) bottom left repeat-x #FFFFFF;
+    background: url(../images/ntc-banner.jpg) bottom left repeat-x #FFFFFF;
     height: 100px;
     background-size: 500px;
     background-position: 0px 24px;
@@ -446,7 +446,7 @@ span.separate {
     padding:20px 0px;
     height: 200px;
     width: 100%;
-    background: #E2C97B;
+    background: #F0B244;
 }
 
 h2.panel-title {

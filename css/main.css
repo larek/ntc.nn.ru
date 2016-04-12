@@ -4230,7 +4230,7 @@ a:hover {
 }
 
 .header__wrapper {
-    background: url(../images/banner.jpg) bottom left repeat-x #ececec
+    background: url(../images/ntc-banner.jpg) bottom left repeat-x #ececec
 }
 
 .header__item {
@@ -7926,7 +7926,7 @@ a:hover {
         position: relative
     }
     .header__inner {
-        background: url(../images/banner.jpg) bottom left repeat-x #ececec;
+        background: url(../images/ntc-banner.jpg) bottom left repeat-x #ececec;
         padding: 15px 0
     }
     .schedule-block {
@@ -8816,7 +8816,7 @@ a:hover {
         background: 0 0
     }
     .header__inner {
-        background: url(../images/banner.jpg) bottom left repeat-x #ececec
+        background: url(../images/ntc-banner.jpg) bottom left repeat-x #ececec
     }
     .footer {
         background: 0 0;
@@ -9656,7 +9656,7 @@ a:hover {
         background: 0 0
     }
     .header__inner {
-        background: url(../images/banner.jpg) bottom left repeat-x #ececec
+        background: url(../images/ntc-banner.jpg) bottom left repeat-x #ececec
     }
     .footer__list_2-col {
         width: auto
@@ -10430,7 +10430,7 @@ a:hover {
         background: 0 0
     }
     .header__inner {
-        background: url(../images/banner.jpg) bottom left repeat-x #FFFFFF;
+        background: url(../images/ntc-banner.jpg) bottom left repeat-x #FFFFFF;
     background-position: 147px 126px;
     background-size: 500px;
     }
@@ -11193,7 +11193,7 @@ a:hover {
         background: 0 0
     }
     .header__inner {
-background: url(../images/banner.jpg) bottom left repeat-x #FFFFFF;
+background: url(../images/ntc-banner.jpg) bottom left repeat-x #FFFFFF;
     background-position: 147px 126px;
     background-size: 500px;
     }
