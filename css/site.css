@@ -448,3 +448,20 @@ span.separate {
     width: 100%;
     background: #E2C97B;
 }
+
+h2.panel-title {
+    color: #FDB51C;
+}
+
+.panel-heading {
+    background: white !important;
+    border-bottom: 1px solid #E4C674 !important;
+}
+
+.panel-heading.icon {
+    color: #E2C879;
+}
+
+article.panel.panel-primary {
+    border-color: #E2C879;
+}
