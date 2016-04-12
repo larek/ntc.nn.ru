@@ -450,20 +450,20 @@ span.separate {
 }
 
 h2.panel-title {
-    color: #FDB51C;
+    color: white;
 }
 
 .panel-heading {
-    background: white !important;
-    border-bottom: 1px solid #E4C674 !important;
+    background: #F0B244 !important;
+    border-bottom: 1px solid #F0B244 !important;
 }
 
 .panel-heading.icon {
-    color: #E2C879;
+    color: #fff;
 }
 
 article.panel.panel-primary {
-    border-color: #E2C879;
+    border-color: #F0B244;
 }
 
 /*footer*/
