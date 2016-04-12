@@ -57,7 +57,7 @@ AppAsset::register($this);
 
                             <div class="col-xs-5 col-xs-pull-7 col-usm-3 col-usm-pull-4 col-sm-4 col-sm-pull-3 col-md-pull-0 col-md-2 col-lg-2 col-slg-2">
                                 <div class="header__item">
-                                    <a href="/"><img src="/images/ntc-logo.png" style='width:150px' class="header__logo img-responsive"></a>
+                                    <a href="/"><img src="/images/ntc-logo.png" style='width:142px' class="header__logo img-responsive"></a>
                                 </div>
                             </div>
 
