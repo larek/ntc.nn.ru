@@ -33,24 +33,26 @@ AppAsset::register($this);
                 <div class="header__inner">
                     <div class="container-fluid">
                         <div class="row">
+                            
+
+                            <div class=" col-xs-7 col-xs-push-5 col-usm-4 col-usm-push-3 col-sm-3 col-sm-push-4 col-md-push-0 col-md-2 col-lg-2 col-slg-2">
+                               <!--  <div class="header__item">
+                                    <div class="schedule-block">
+                                        <div class="schedule-block__title">Без выходных</div>
+                                        <div class="schedule-block__item">10:00 - 20:00</div>
+                                    </div>
+                                </div> -->
+                            </div>
+
                             <div class="col-xs-7 col-xs-push-5 col-usm-5 col-usm-push-0 col-sm-3 col-sm-offset-1 col-md-3 col-md-offset-0 col-lg-2 col-lg-offset-1 col-slg-2 col-slg-offset-1">
                                 <div class="header__item">
                                     <div class="phone-block">
                                         <div class="phone-block__item">
-                                            <a href="tel:+74959983416" class="phone-block__link">+7-495-998-34-16</a>
+                                            <a href="tel:+74959983416" class="phone-block__link">+7-831-288-88-88</a>
                                         </div>
                                         <div class="phone-block__item">
-                                            <a href="tel:+74957735071" class="phone-block__link">+7-495-773-50-71</a>
+                                            <a href="tel:+74957735071" class="phone-block__link">+7-831-288-88-89</a>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-xs-7 col-xs-push-5 col-usm-4 col-usm-push-3 col-sm-3 col-sm-push-4 col-md-push-0 col-md-2 col-lg-2 col-slg-2">
-                                <div class="header__item">
-                                    <div class="schedule-block">
-                                        <div class="schedule-block__title">Без выходных</div>
-                                        <div class="schedule-block__item">10:00 - 20:00</div>
                                     </div>
                                 </div>
                             </div>
@@ -64,19 +66,19 @@ AppAsset::register($this);
                             <div class="hidden-xs hidden-usm hidden-sm col-md-3 col-lg-2 col-slg-2">
                                 <div class="header__item">
                                     <div class="contact-us-block">
-                                        <a href="mailto:79857735071@yandex.ru" class="contact-us-block__item link link_simple">79857735071@yandex.ru</a>
+                                        <a href="mailto:79857735071@yandex.ru" class="contact-us-block__item link link_simple">info@ntc.nn.ru</a>
                                         <a href="#" data-href="/zadat-vopros/" class="ajax-link link link_dashed">Задать вопрос</a>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="hidden-xs hidden-usm hidden-sm col-md-2 col-lg-2 col-slg-2">
-                                <div class="header__item">
+                                <!-- <div class="header__item">
                                     <div class="contact-block">
                                         <a href="/contacts/" class="contact-block__item link link_simple">Контакты</a>
                                     </div>
-                                </div>
-                            </div>
+                                </div>-->
+                            </div> 
                         </div>
                     </div>
                 </div>
