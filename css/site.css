@@ -433,3 +433,18 @@ span.separate {
 .container img{
   max-width: 940px;
 }
+
+
+.footer_border {
+    background: url(../images/banner.jpg) bottom left repeat-x #FFFFFF;
+    height: 100px;
+    background-size: 500px;
+    background-position: 0px 24px;
+}
+
+.footer_wrap {
+    padding:20px 0px;
+    height: 200px;
+    width: 100%;
+    background: #E2C97B;
+}

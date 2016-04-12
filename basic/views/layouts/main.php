@@ -172,44 +172,12 @@ AppAsset::register($this);
             <?= $content?>
         </div>
 
-    <!-- <div class="footer" style="margin-bottom: 10px;">
-        <div class="container-fluid">
-            <div class="hidden-xs hidden-usm footer__inner">
-                <div class="row">
-                    <div class="footer__menus-part-1" data-widget="footerMenusPart1"></div>
-
-                    <div class="col-sm-4 col-md-3 col-lg-3 col-slg-3">
-                        <div class="footer__item">
-                            <div class="footer__title">Информация</div>
-
-                            <div class="footer__menus-part-2" data-widget="footerMenusPart2"></div>
-
-                            <div class="unicontent clearfix">
-                                <div class="unicontent__title">Разработка сайта:</div>
-
-                                <a target="_blank" href="http://www.unicontent-studio.ru/" class="unicontent__link">
-                                    <img src="assets/images/unicontent.png" alt="Студия UniContent" class="unicontent__image">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="footer__mobile visible-xs visible-usm">
-                <div class="footer__menus-part-3" data-widget="footerMenusPart3"></div>
-
-                <div class="unicontent clearfix">
-                    <div class="unicontent__title">Разработка сайта:</div>
-
-                    <a target="_blank" href="http://www.unicontent-studio.ru/" class="unicontent__link">
-                        <img src="assets/images/unicontent.png" alt="Студия UniContent" class="unicontent__image">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div> -->
-               
+    <div class="footer_border"></div>
+    <div class="footer_wrap">
+        <div class="container">
+            <div class="col-md-4">sdf</div>  
+        </div> 
+    </div>
 <?php $this->endBody() ?>
 </body>
 </html>
