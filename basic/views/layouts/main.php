@@ -86,7 +86,7 @@ AppAsset::register($this);
                 <div class="main-menu-2__wrapper">
                     <div class="main-menu-2">
                         <ul class="hidden-xs hidden-usm main-menu-2__menu-level-1">
-                            <li class="first level-1 active main-menu-2__menu-level-1__item">
+                            <li class="first level-1  main-menu-2__menu-level-1__item">
                                 <?= Html::a('Сборные экскурсии',['site/view', 'guid' => 'sbornye-ekskursii'], ['class' => 'main-menu-2__menu-level-1__link']);?>
                                 <!-- <ul class="hidden-xs hidden-usm main-menu-2__menu-level-2">
                                     <li class="first level-2 main-menu-2__menu-level-2__item">
